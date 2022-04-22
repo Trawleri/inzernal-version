@@ -1,4 +1,1 @@
-Hello!|3.86|INZERNAL - Updated to 3.86 [how u doin guys ;)]|true|Changelog
-  1.Fixed autocollect that sometime it doesn't collect
-  2.Added growscan
-  3.I forgor
+Hello!|3.86|INZERNAL - Updated to 3.86 [how u doin guys ;)]|true|Changelog\n  1.Fixed autocollect that sometime it doesn't collect\n  2.Added growscan\n  3.I forgor
