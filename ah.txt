@@ -1,1 +1,1 @@
-Hello!|3.87|INZERNAL - Updated to 3.87 new update is coming!!?!? :)|true|Changelog\n  1.Fixed autocollect that sometime it doesn't collect\n  2.Added growscan\n  3.I forgor
+Hello!|3.87|INZERNAL - Updated to 3.87 new update is coming!!?!? :)|true|Changelog\n  1.Fixed autocollect that sometime it doesn't collect\n  2.Added growscan\n  3.I forgor|1.5
