@@ -1,2 +1,2 @@
 # inzernal-version
-Latest inzernal: https://bit.ly/inzernal387
+Latest inzernal: https://bit.ly/37BoWe0
