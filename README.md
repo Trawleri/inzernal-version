@@ -1,2 +1,2 @@
 # inzernal-version
-Outdated, i will update it tmr
+[Link](https://cararegistrasi.com/LUulqTO)
