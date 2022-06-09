@@ -1,1 +1,1 @@
-Hello!|3.91|INZERNAL - Updated!! (discord.gg/qjVawZvHVY)|true|Changelog\n  1.Added system speed and fast buy\n  2.fixed some crashes(hopefully)|1.6|)25 *5*5mno|
+Hello!|3.91|INZERNAL - Updated!! (discord.gg/qjVawZvHVY)|true|Changelog\n  1.New captcha solver|1.6|)25 *5*5mno|
