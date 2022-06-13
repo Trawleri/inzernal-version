@@ -10,6 +10,8 @@
 * [GetTile](#gettile)
 * [GetTiles](#gettiles)
 * [AddCallback](#addcallback)
+* [RunThread](#runthread)
+* [Wait](#wait)
 
 
 ## SendPacket
@@ -149,6 +151,32 @@ function hook(varlist)
 end
 
 AddCallback("Cool", hook)
+```
+
+## Wait
+`Wait(int sec)`
+put a delay inside a thread
+
+Example:
+```lua
+local function wow()
+	log("Hello")
+	Wait(1)
+	log("World!")
+end
+```
+
+## RunThread
+`RunThread(function)`
+Run a function in a different thread
+
+Example
+```lua
+RunThread(function()
+	log("Hello")
+	Wait(1)
+	log("World!")
+end)
 ```
 
 # Structs
