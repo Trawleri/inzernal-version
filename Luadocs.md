@@ -155,15 +155,18 @@ AddCallback("Cool", hook)
 
 ## Wait
 `Wait(int sec)`
-put a delay inside a thread
+put a delay inside a [Thread](#runthread)
 
 Example:
 ```lua
-local function wow()
-	log("Hello")
+local function wow(a, b)
+	log(a)
 	Wait(1)
-	log("World!")
+	log(b)
 end
+RunThread(function()
+	wow("Hello", "World")
+end)
 ```
 
 ## RunThread
