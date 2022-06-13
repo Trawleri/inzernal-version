@@ -9,6 +9,7 @@
 * [GetObjects](#getobjects)
 * [GetTile](#gettile)
 * [GetTiles](#gettiles)
+* [AddCallback](#addcallback)
 
 
 ## SendPacket
